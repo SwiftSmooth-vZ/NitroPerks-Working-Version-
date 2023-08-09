@@ -1,4 +1,7 @@
-# NitroPerks-Working-Version-
-Since the owner abandoned NitroPerks, I decided to upload a working version of it.
-To use it go to the plugins folder via discord and settings and drag the .js file over there.
-Enjoy. (Also the previous owner why did you abandon it and make it useless? It was working fine)
+# NitroPerks-Working-Version- (Currently Defunct)
+Working version of NitroPerks Betterdiscord plugin.
+Available feature includes:
+- 1080p 60 FPS streaming
+- Free Emojis from all server
+- Use animated profile pictures (Only Client side)
+- Use Custom Discord Tag (Only Client side)
